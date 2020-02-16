@@ -7,5 +7,5 @@ I done this processes ;
  (Feature Representation): TF-IDF.
  (Feature Extraction): PCA.
  
-  (Learning Methods): K-NN, SVM, Naive Bayes, Decision Tree, Random Forest, K-means, Hieararchial Clustering.
+  (Learning Methods): K-NN, SVM, Naive Bayes, Decision Tree, K-means, Hieararchial Clustering.
   (Performance Evaluation): Accuracy, Precision, Recall.
